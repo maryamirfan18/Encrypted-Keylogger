@@ -38,13 +38,13 @@ A **keylogger** is a type of surveillance software or malware designed to record
 
 ## 📁 Project Structure
 
-
+```
 ├── keylogger.py              # Main script
 ├── key.key                   # AES encryption key
 ├── log_encrypted.txt         # Encrypted keystrokes
 ├── log_decrypted.txt         # Readable keystrokes with timestamps
 ├── README.md                 # This file
-
+```
 ---
 
 ## 🧰 Dependencies
